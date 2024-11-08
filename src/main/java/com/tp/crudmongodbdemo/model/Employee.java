@@ -20,6 +20,7 @@ public class Employee {
     private String empName;
     private String location;
     private long salary;
+    private String city;
 
     //using DB ref also we can store the data, or we can directly use address object by sending through postman
     //without need of creating any new document for Address.
